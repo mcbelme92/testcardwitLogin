@@ -52,20 +52,9 @@ npm run dev
 
 Esto iniciará la aplicación en tu navegador. Asegúrate de que la aplicación pueda acceder al servidor JSON en `http://localhost:3000` para obtener y mostrar datos.
 
-## Uso
+# Uso
 
 La aplicación muestra una lista de tarjetas de usuarios, donde cada tarjeta representa un usuario con su nombre, descripción y estado de administrador. Puedes interactuar con las tarjetas, seguir y dejar de seguir usuarios.
 
-## Contribuciones
 
-Si deseas contribuir a este proyecto, no dudes en crear un problema o enviar una solicitud de extracción. ¡Estamos abiertos a mejoras y nuevas características!
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-```
-
-Este archivo `README.md` actualizado refleja el comando `yarn dev` para ejecutar la aplicación, como mencionaste. Asegúrate de personalizar la información según las necesidades específicas de tu proyecto.
-```
 ````
