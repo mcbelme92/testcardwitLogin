@@ -3,6 +3,9 @@
   command = "yarn build"
   functions = "netlify/functions"
   publish = "dist"
+[dev]
+  command = "json-server --watch db.json --port 3001" # Comando para ejecutar JSON Server en Netlify Dev
+
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
