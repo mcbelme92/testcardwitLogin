@@ -37,6 +37,11 @@ yarn json-server db.json
 # o
 npx json-server db.json
 ```
+```bash
+yarn start
+# o
+npx start
+```
 
 Esto iniciará el servidor JSON y servirá los datos desde el archivo `db.json`.
 
